@@ -2,50 +2,54 @@
 <h3 align="center">Full Stack Java Web Developer | Spring Boot | React | RESTful APIs</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers"></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail" alt="Email"></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
 </p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔧 I build scalable **RESTful APIs** using **Spring Boot**, **Hibernate**, and **MySQL**
-- 🌐 I develop full-stack apps with **React + Java backend**
-- ☁️ I deploy apps on **Render**, **Netlify**, and **Heroku**
-- 🔐 Experience with **JWT Auth**, secure API access, and form validation
-- 🧩 I love integrating frontend and backend for seamless UX
-- 🛠️ Constantly learning and exploring new tools in full stack development
 
 ---
 
 ### 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,postman" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring" title="Spring (leaf)" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 #### 🔹 [📈 Trading Application](https://github.com/yourusername/trading-application)
-- Developed end-to-end stock trading simulation platform
-- Spring Boot backend with REST APIs for account, transactions, and portfolio
-- React frontend with real-time charts, Axios integration
-- Deployed on **Render + Netlify**
+- Stock trading simulation with Spring Boot REST APIs and React frontend
+- Chart.js for visual trends, deployed on Render and Netlify
 
 #### 🔹 [💼 Job Verse](https://github.com/yourusername/job-verse)
-- Job portal where users can apply for jobs, post resumes, and manage profiles
-- Java Spring Boot + React + MySQL stack
-- JWT-based authentication, role-based access
-- Integrated Email notifications and pagination
+- Full-featured job portal with Spring Boot backend and MySQL
+- JWT auth, role-based access, resume uploads, email notifications
 
 #### 🔹 [🌦️ Weather Application](https://github.com/yourusername/weather-app)
-- React app that fetches real-time weather data using OpenWeather API
-- Search by city, unit toggle (°C/°F), responsive UI with Tailwind
-- Frontend deployed on **Netlify**, uses REST API
+- React-based weather dashboard using OpenWeather API
+- Clean Tailwind UI, search-by-city, mobile responsive
 
 ---
 
@@ -69,9 +73,8 @@
 
 - 📧 Email: your@email.com  
 - 💼 LinkedIn: [yourlinkedin](https://linkedin.com/in/yourlinkedin)  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(optional)*
+- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ---
 
-⭐ *Thanks for stopping by! Feel free to check out my repositories or connect with me.*
-
+⭐ *Thanks for visiting my GitHub profile! Feel free to explore my projects and reach out if you'd like to collaborate.*
