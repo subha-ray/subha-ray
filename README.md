@@ -71,9 +71,9 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: your@email.com  
-- 💼 LinkedIn: [yourlinkedin](https://linkedin.com/in/yourlinkedin)  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 📧 Email: subhasish34cse@email.com  
+- 💼 LinkedIn: [Subhasish Rayn](https://www.linkedin.com/in/subhasish-ray-c1)  
+- 🌐 Portfolio: [subhasish.in](https://www.subhasish.in/)
 
 ---
 
