@@ -72,7 +72,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: subhasish34cse@email.com  
-- 💼 LinkedIn: [Subhasish Rayn](https://www.linkedin.com/in/subhasish-ray-c1)  
+- 💼 LinkedIn: [Subhasish Ray](https://www.linkedin.com/in/subhasish-ray-c1)  
 - 🌐 Portfolio: [subhasish.in](https://www.subhasish.in/)
 
 ---
