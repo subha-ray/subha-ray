@@ -47,7 +47,7 @@
 - Full-featured job portal with Spring Boot backend and MySQL
 - JWT auth, role-based access, resume uploads, email notifications
 
-#### 🔹 [🌦️ Weather Application](https://github.com/yourusername/weather-app)
+#### 🔹 [🌦️ Weather Application](https://weather-application-tan-zeta.vercel.app/)
 - React-based weather dashboard using OpenWeather API
 - Clean Tailwind UI, search-by-city, mobile responsive
 
